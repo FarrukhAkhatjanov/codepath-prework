@@ -30,9 +30,11 @@ Favorite Apps:
 -Instagram
     Story Highlights: The ability to save Instagram Stories as highlights, allowing users to curate and display their favorite moments permanently.
     Explore Feed: A personalized Explore feed that continuously adapts based on user interactions, providing fresh and relevant content.
+
 -YouTube
     Offline Viewing: The option to save videos for offline access, ensuring you can enjoy your favorite content even without an internet connection.
     Flexible Video Quality: Customizable video quality settings that adapt to different internet speeds, providing smoother playback regardless of your connection.
+
 -CapCut
     Easy Video Editing: Simple yet powerful tools for video editing, making it easy for anyone to create high-quality videos without needing advanced skills.
     Free Access to Effects: A wide range of free effects and filters that enhance videos, allowing users to create professional-looking content with ease.
